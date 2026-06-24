@@ -1,10 +1,10 @@
-# mova-product-analytics
+# 🎓 mova-product-analytics
 Product analytics case study for MOVA (EdTech AI app) evaluating user acquisition across geographies, analyzing paywall A/B testing variations, and modeling funnel unit economics.
 
 ## 📌 Project Overview & Context
-This project was developed collaboratively within a team during an intensive **2-day Product Marketing Sprint**, simulating a fast-paced product launch environment. As a core team member, I was actively involved in **every single stage** of the project lifecycle, contributing to both strategic product discovery and rigorous analytical modeling.
+This project was developed collaboratively within a team during an intensive **⚡2-day Product Marketing Sprint**, simulating a fast-paced product launch environment. As a core team member, I was actively involved in **every single stage** of the project lifecycle, contributing to both strategic product discovery and rigorous analytical modeling.
 
-**My cross-functional involvement and team contributions included:**
+**👥My cross-functional involvement and team contributions included:**
 * **Audience Research & Positioning:** Collaborated on analyzing user pain points across Reddit, Instagram, and YouTube to define and validate a scalable value proposition for MOVA as a "Human-like AI Language Partner."
 * **User Acquisition & Data Analysis:** Co-evaluated ad campaign performance data across 4 global geographies under a fixed weekly testing budget to mathematically back our scaling decisions.
 * **Monetization Strategy:** Participated in designing and evaluating an A/B test for paywall optimization, analyzing metrics to ensure high-quality user conversion and predictable cash flow.
@@ -14,7 +14,7 @@ This project was developed collaboratively within a team during an intensive **2
 
 ## **Selected Topic: "Real Practice Without Fear" (Human-like AI Language Partner)**
 
-**Lead phrase:** "Tired of robotic AI, but too shy to practice with real people?"
+📢**Lead phrase:** "Tired of robotic AI, but too shy to practice with real people?"
 
 After analyzing Reddit, Instagram, and YouTube, we identified three of the most active audience pain points — which are essentially one cluster:
 
@@ -24,7 +24,7 @@ After analyzing Reddit, Instagram, and YouTube, we identified three of the most 
 
 ![Image problems](comments.png)
 
-**Core Insight**
+💡**Core Insight** 
 
 People want to practice with someone real, but are terrified of being judged by actual people. And conventional language apps feel too lifeless to serve as a substitute. MOVA fills this gap: a human-like AI partner that sounds like a real person but never judges you for your mistakes.
 
@@ -51,7 +51,7 @@ _Speals AI - doesn’t say that people are tired of ai, only shows advantages of
 
 - **High emotional trigger for Meta algorithms:** Recognition shame is the strongest stop-scroll trigger, because a person is not just interested, they stop and think “this is about me”. This generates long first views (3+ sec) and comments like “omg same” - both signals are interpreted by Meta as high-quality engagement and increase organic sharing. None of the direct competitors (LearnAI, Ewa, Speals AI) activate this emotion - they either show the benefits of the product or avoid the topic of AI altogether. This means that the auction for this audience is not occupied, and the CPM will be lower with a higher CTR.
 
-## **Strategic Positioning for MOVA**
+## **🚀Strategic Positioning for MOVA** 
 
 At first glance, the topic seems paradoxical: it builds on the pain of 'I'm tired of AI, I need a real person,' while the product itself is AI. This is not a bug — it is our USP. People are not tired of AI itself; they are tired of robotic AI.
 
@@ -69,7 +69,7 @@ We must position MOVA as a Human-like AI Language Partner. This is not just anot
 
 ### **Step 1** \- **6 Creative Concepts**
 
-**Concept #1**
+**📍Concept #1**
 
 **Hook:** Make 10 mistakes. AI won't judge.
 
@@ -79,7 +79,7 @@ Main emotion: With AI, it's not scary to be wrong at the start. It doesn't laugh
 
 **CTA:** Start speaking without fear
 
-**Concept #2**
+**📍Concept #2**
 
 **Hook:** "Stop practicing in the mirror." A person stands in front of a mirror, looking a bit awkward, hesitating. A light, ironic laugh is heard. The text changes to: "Real feedback, zero judgment."
 
@@ -87,7 +87,7 @@ Main emotion: With AI, it's not scary to be wrong at the start. It doesn't laugh
 
 **CTA:** Master your next conversation with Mova. Download the Real-Life Conversation Trainer.
 
-**Concept #3**
+**📍Concept #3**
 
 **Hook:** Your level is low. So what? AI won't expose you.
 
@@ -99,7 +99,7 @@ Main message: A low level is nothing to be ashamed of. The shame is in being put
 
 **CTA:** Practice before anyone puts you on the spot
 
-**Concept #4**
+**📍Concept #4**
 
 **Hook:** Still waiting for someone to practice with?
 
@@ -118,7 +118,7 @@ Main message: There's no need to wait for the perfect speaking partner or for th
 
 **CTA:** Start speaking before you're ready. MOVA will get you there.
 
-**Concept #5**
+**📍Concept #5**
 
 **Hook:** It's 10 PM. Your motivation is finally here. But every tutor is offline.
 
@@ -139,7 +139,7 @@ Main message: When you finally feel motivated to speak, that feeling can't be po
 
 **CTA:** Practice with native-like AI anytime.
 
-**Concept #6**
+**📍Concept #6**
 
 **Hook:** Tired of AI? What if you couldn't tell it was AI?
 
@@ -157,15 +157,15 @@ Main message: People are tired of AI not because they hate technology, but becau
 
 **CTA:** Try the AI that doesn't sound like AI.
 
-### **Step 2 — Two Strongest Concepts**
+### **💪Step 2 — Two Strongest Concepts**
 
-**Concept #5**
+**📍Concept #5**
 
 **Selection rationale:**
 
 We selected Concept #5 because it targets a behavioral moment that is both universal and highly specific: the late-night motivation spike. This is not a niche situation — it affects virtually every self-improvement learner regardless of geography or language goal. The hook works because it captures a real internal conflict: the user is finally ready, but every available option (tutor, friend, native speaker, app) fails them at that exact moment. This makes the frustration immediate and personal, which drives strong scroll-stop behavior. Unlike Concepts #1 and #2, which rely on repeated trial-and-error scenes that can feel slow in the first 3 seconds, Concept #5 builds tension through a fast sequence of blocked options — each one adding to the emotional pressure before the resolution. This structure is better suited for short-form video formats (Reels, Stories) where attention is won or lost in under 2 seconds.
 
-**Concept #6**
+**📍Concept #6**
 
 **Selection rationale:**
 
@@ -175,7 +175,7 @@ This creative enters directly at this layer of doubt and flips it. It doesn't co
 
 This approach is better suited for performance marketing because it doesn't rely on specific situations or emotional scenes — other concepts often hinge on fear, shame, or individual life moments, making them harder to scale and more prone to 'creative burnout' in tests. Here, the foundation is far simpler: does this AI sound like a human? Because of this, dialogues, examples, and proof points can be easily changed without altering the core idea.
 
-**Why didn't we choose the earlier concepts?**
+**❓Why didn't we choose the earlier concepts?**
 
 We eliminated the earlier creative concepts not because they lacked emotional or narrative strength, but because they failed to establish a distinct market position for MOVA. Those concepts relied on common industry tropes and universal pain points, which ultimately categorized us as just another practice app. Our selected direction shifts the core criteria from the user asking whether they need to learn a language to the user questioning whether our AI sounds genuinely human.
 
@@ -183,19 +183,19 @@ Regarding the specific concepts, we compared the café embarrassment scenario an
 
 We ultimately chose concepts five and six as a complementary pair for testing. Concept five targets users who already possess the desire to practice but lack the opportunity, effectively selling availability and readiness. Concept six targets users who remain skeptical of AI language tools by selling credibility and technical differentiation. Together, these two concepts address distinct psychological barriers within the cold audience funnel, moving the viewer from the need for practice to the conviction that MOVA is the superior solution.
 
-# **Task 2.1: User Acquisition Management - GEO Analysis**
+# **🌍Task 2.1: User Acquisition Management - GEO Analysis**
 
 ## Recommended market for scaling: United States (US)
 
 Based on aggregated data across four geographic regions (US, UK, CA, AU), we analyzed user acquisition efficiency and monetization performance. The United States has been selected as the priority geography for scaling in the next quarter.
 
-### **1\. Economic Efficiency (LTV/CAC)**
+### **🧮1\. Economic Efficiency (LTV/CAC)**
 
 The US market delivers the strongest return on marketing investment with an LTV/CAC ratio of 1.96x — the highest across all four markets. Despite carrying the highest CPM ($52.40), the monetization quality of the US audience fully offsets this cost.
 
 At first glance, the US looks expensive: CPM of $52.40 is 53% higher than the UK's $34.20, which means fewer impressions for the same budget. However, when we run the full funnel at a $20,000 weekly budget, the US generates an estimated $8,611 in revenue versus $6,272 for the UK — a 37% advantage. The higher CPM is fully offset by superior LTV ($18.40 vs $11.20) and stronger funnel conversion. Paying more per impression is justified when each acquired user is worth significantly more over 6 months.
 
-### **2\. Product Metrics and Engagement**
+### **📊2\. Product Metrics and Engagement**
 
 The quality of the US audience is confirmed by the strongest retention and activity metrics across all markets:
 
@@ -204,7 +204,7 @@ The quality of the US audience is confirmed by the strongest retention and activ
 
 High session frequency is a direct driver of long-term LTV growth. The US shows a stable core of users who not only install the app but return to it consistently — a critical signal for sustainable scaling.
 
-### **3\. Sales Funnel Efficiency**
+### **🧮3\. Sales Funnel Efficiency**
 
 The US leads in conversion across every funnel stage:
 
@@ -230,7 +230,7 @@ This means that for every 1,000 installs, the US converts 75 more users to payin
 | Avg Sessions/Week | 4.2 | 3.8 | 4.0 | 3.1 |
 | Day-7 Retention | 38% | 31% | 34% | 29% |
 
-### 4\. Market-by-Market Conclusions
+### 🚀4\. Market-by-Market Conclusions
 
 **United States (US) — Primary scaling market.**
 Best LTV/CAC (1.96x), strongest retention (38%), and highest revenue per $20,000 spent ($8,611). The elevated CPM is justified by audience quality and monetization efficiency. Recommended as the sole focus for budget scaling in Q3.
@@ -244,7 +244,7 @@ The UK has the lowest CPM ($34.20) and highest CTR (4.2%) across all markets, ma
 **Australia (AU) — On hold.**  
 AU is the only market where LTV/CAC (1.37x) falls below the 1.5x threshold considered healthy for scaling. Combined with the highest CPM outside the US ($41.70) and the lowest Day-7 Retention (29%), AU represents the weakest return on ad spend across all geos. No additional budget should be allocated to AU until core retention issues are addressed at the product level.
 
-# **Task 3.1:** A/B Test Analysis
+# **🧪Task 3.1:** A/B Test Analysis
 
 You have run an A/B test of two paywall variants. The test ran for 4 weeks, with traffic split 50/50 between the variants. Both variants consist of a single screen, with no onboarding.
 
@@ -267,9 +267,9 @@ You have run an A/B test of two paywall variants. The test ran for 4 weeks, with
 | LTV (6 months) | $48 | $45 |
 | Refund Rate | 3.2% | 1.8% |
 
-## Winning Variant: B ($19.99/month)
+## 👑Winning Variant: B ($19.99/month)
 
-#### **1\. Determining the Winner**
+#### **🔋1\. Determining the Winner**
 
 The winning variant is **Variant B**. The decision is based on four metrics evaluated together, not LTV alone.
 
@@ -289,7 +289,7 @@ This is the starkest difference in the entire dataset. In Variant A, 68% of payi
 
 Variant A shows a marginal $163 advantage here. However, at a $20,000 weekly budget this gap is negligible and is fully offset by Variant B's structural advantages in retention and refund rate.
 
-**Why not Variant A despite higher LTV ($48 vs $45)?**
+**❓Why not Variant A despite higher LTV ($48 vs $45)?**
 
 CAC is identical for both variants — traffic was split 50/50 from the same budget, so acquisition costs do not differ. The $3 LTV gap in favor of Variant A (6.7%) does not change the conclusion because:
 
@@ -297,7 +297,7 @@ CAC is identical for both variants — traffic was split 50/50 from the same bud
 2.  Variant A's 3.2% refund rate creates real downstream costs not captured in LTV: chargeback fees, support overhead, and App Store reputation risk.
 3.  Variant A's 68% cancel rate means the higher LTV is driven by front-loaded weekly charges, not genuine long-term retention — making it fragile and difficult to scale safely.
 
-#### **2\. Why Do the Metrics Differ? Understanding User Behavior**
+#### **❓2\. Why Do the Metrics Differ? Understanding User Behavior**
 
 The data reveals that the two variants are attracting fundamentally different types of users.
 
@@ -310,7 +310,7 @@ The $19.99/month framing sets a clear and honest expectation upfront. The higher
 **One counterintuitive signal worth addressing:**  
 Variant A generates higher Avg Revenue per Paid User at Day 30 ($26.5 vs $19.6). This happens because weekly billing front-loads revenue — users are charged immediately and repeatedly in the first weeks. However, this advantage disappears by month 6: LTV converges to $48 vs $45, a difference of only 6.7%. The reason is the 68% cancel rate — most Variant A users churn after 2–3 weekly charges, meaning the early revenue spike does not compound. Variant B generates less in month 1 but retains users longer, producing a more stable and predictable revenue curve that is better suited for scaling.
 
-#### **3\. Two Hypotheses for the Next Test**
+#### **🧪3\. Two Hypotheses for the Next Test**
 
 **Hypothesis 1: Adding a "How Your Trial Works" Timeline Block**
 
@@ -334,7 +334,7 @@ Expected outcome: The monthly plan conversion rate increases as users shift from
 
 Based on US market data (Task 2.1) combined with Variant B metrics (Task 3.1)
 
-## **1\.** Full Acquisition Funnel
+## **📊1\.** Full Acquisition Funnel
 
 | **Metric** | **Value** | **Source** |
 | :--- | :---: | :---: |
@@ -352,7 +352,7 @@ Based on US market data (Task 2.1) combined with Variant B metrics (Task 3.1)
 | CR Trial → Pay | 44% | Variant B (Task 3.1) |
 | Paying Users | 688 | 1,564 × 44% |
 
-## **2\. C**ompleted Unit Economics Table
+## **🧮2\. Completed Unit Economics Table**
 
 | **Metric** | **Value** | **Calculation** |
 | :--- | :---: | :---: |
@@ -361,9 +361,9 @@ Based on US market data (Task 2.1) combined with Variant B metrics (Task 3.1)
 | Contribution Margin / User | $15.93 | $45.00 − $29.07 |
 | Break-even LTV Needed | $29.07 | LTV must equal CAC |
 
-## **3\.** Conclusion: Does Unit Economics Work?
+## **3\.**❓Does Unit Economics Work?
 
-**Yes — at current metrics, unit economics is positive.**
+**💡Yes — at current metrics, unit economics is positive.**
 
 With Variant B's CR Trial→Pay (44%) applied to the US funnel, each paying user generates a contribution margin of **+$15.93**. The current LTV ($45.00) covers CAC ($29.07) at a ratio of **1.55x** — above the 1.5x threshold considered healthy for early-stage scaling.
 
@@ -374,13 +374,13 @@ This is a direct result of combining two strengths:
 
 Neither input alone is sufficient. US market data with Variant A's CR Trial→Pay (34%) would yield only 531 paying users, CAC of $37.66, and a contribution margin of **+$7.34** — still positive, but significantly weaker. Variant B is what makes economics work comfortably.
 
-## 4\. Conclusion: Does Unit Economics Work?
+## 4\. 📌Conclusion
 
 **Recommended action: Improve CR Trial→Pay from 44% to 55% through in-trial engagement optimization.**
 
 The current break-even point requires LTV ≥ $29.07. We are already above it. However, increasing CR Trial→Pay is the highest-leverage lever available because it simultaneously reduces CAC and increases the paying user base without touching the ad budget.
 
-**Justification through numbers:**
+**📈Justification through numbers:**
 
 If CR Trial→Pay improves from 44% to 55%:
 
