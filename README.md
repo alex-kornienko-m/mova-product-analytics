@@ -1,6 +1,15 @@
 # mova-product-analytics
 Product analytics case study for MOVA (EdTech AI app) evaluating user acquisition across geographies, analyzing paywall A/B testing variations, and modeling funnel unit economics.
 
+## 📌 Project Overview & Context
+This project was developed collaboratively within a team during an intensive **2-day Product Marketing Sprint**, simulating a fast-paced product launch environment. As a core team member, I was actively involved in **every single stage** of the project lifecycle, contributing to both strategic product discovery and rigorous analytical modeling.
+
+**My cross-functional involvement and team contributions included:**
+* **Audience Research & Positioning:** Collaborated on analyzing user pain points across Reddit, Instagram, and YouTube to define and validate a scalable value proposition for MOVA as a "Human-like AI Language Partner."
+* **User Acquisition & Data Analysis:** Co-evaluated ad campaign performance data across 4 global geographies under a fixed weekly testing budget to mathematically back our scaling decisions.
+* **Monetization Strategy:** Participated in designing and evaluating an A/B test for paywall optimization, analyzing metrics to ensure high-quality user conversion and predictable cash flow.
+* **Financial & Growth Modeling:** Actively built and simulated funnel unit economics scenarios in Microsoft Excel, identifying high-leverage growth levers to optimize the trial-to-pay conversion.
+
 # **Task 1: Justification for the Selected Testing Topic**
 
 ## **Selected Topic: "Real Practice Without Fear" (Human-like AI Language Partner)**
