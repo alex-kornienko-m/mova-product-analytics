@@ -223,17 +223,17 @@ This means that for every 1,000 installs, the US converts 75 more users to payin
 
 ### 4\. Market-by-Market Conclusions
 
-**United States (US) — Primary scaling market.  
-**Best LTV/CAC (1.96x), strongest retention (38%), and highest revenue per $20,000 spent ($8,611). The elevated CPM is justified by audience quality and monetization efficiency. Recommended as the sole focus for budget scaling in Q3.
+**United States (US) — Primary scaling market.**
+Best LTV/CAC (1.96x), strongest retention (38%), and highest revenue per $20,000 spent ($8,611). The elevated CPM is justified by audience quality and monetization efficiency. Recommended as the sole focus for budget scaling in Q3.
 
-**Canada (CA) — Second priority for geographic expansion.  
-**LTV/CAC of 1.77x and funnel behavior that most closely mirrors US patterns (CR Install→Trial: 21% vs 22%). CA is the most logical next market to activate once US campaigns are stabilized and creative assets are proven.
+**Canada (CA) — Second priority for geographic expansion.**  
+LTV/CAC of 1.77x and funnel behavior that most closely mirrors US patterns (CR Install→Trial: 21% vs 22%). CA is the most logical next market to activate once US campaigns are stabilized and creative assets are proven.
 
-**United Kingdom (UK) — Cost-efficient market for creative testing.  
-**The UK has the lowest CPM ($34.20) and highest CTR (4.2%) across all markets, making it the most affordable environment for top-of-funnel creative experimentation. However, LTV of $11.20 limits scaling potential. The UK should not receive significant budget increases until monetization is improved — most likely through paywall optimization or introduction of an annual subscription plan.
+**United Kingdom (UK) — Cost-efficient market for creative testing.**  
+The UK has the lowest CPM ($34.20) and highest CTR (4.2%) across all markets, making it the most affordable environment for top-of-funnel creative experimentation. However, LTV of $11.20 limits scaling potential. The UK should not receive significant budget increases until monetization is improved — most likely through paywall optimization or introduction of an annual subscription plan.
 
-**Australia (AU) — On hold.  
-**AU is the only market where LTV/CAC (1.37x) falls below the 1.5x threshold considered healthy for scaling. Combined with the highest CPM outside the US ($41.70) and the lowest Day-7 Retention (29%), AU represents the weakest return on ad spend across all geos. No additional budget should be allocated to AU until core retention issues are addressed at the product level.
+**Australia (AU) — On hold.**  
+AU is the only market where LTV/CAC (1.37x) falls below the 1.5x threshold considered healthy for scaling. Combined with the highest CPM outside the US ($41.70) and the lowest Day-7 Retention (29%), AU represents the weakest return on ad spend across all geos. No additional budget should be allocated to AU until core retention issues are addressed at the product level.
 
 # **Task 3.1:** A/B Test Analysis
 
@@ -264,14 +264,14 @@ You have run an A/B test of two paywall variants. The test ran for 4 weeks, with
 
 The winning variant is **Variant B**. The decision is based on four metrics evaluated together, not LTV alone.
 
-**CR Paywall → Pay: 12.32% vs 11.89%  
-**The most important single metric in this test. It measures how efficiently each variant converts raw traffic into paying customers. Variant B wins despite having a lower CR Paywall→Trial (28% vs 41%), because the quality of users who start the trial is significantly higher — 44% of them convert to paid vs only 29% in Variant A. From the same volume of traffic, Variant B produces more actual paying customers.
+**CR Paywall → Pay: 12.32% vs 11.89%**  
+The most important single metric in this test. It measures how efficiently each variant converts raw traffic into paying customers. Variant B wins despite having a lower CR Paywall→Trial (28% vs 41%), because the quality of users who start the trial is significantly higher — 44% of them convert to paid vs only 29% in Variant A. From the same volume of traffic, Variant B produces more actual paying customers.
 
-**Refund Rate: 1.8% vs 3.2%  
-**Variant A's refund rate is 78% higher than Variant B's. This is not just a revenue leak — a refund rate above 3% triggers App Store flags, risks payment processor penalties, and generates negative reviews that increase CAC for all future campaigns. Variant B's 1.8% is within a healthy range and creates no systemic risk.
+**Refund Rate: 1.8% vs 3.2%**  
+Variant A's refund rate is 78% higher than Variant B's. This is not just a revenue leak — a refund rate above 3% triggers App Store flags, risks payment processor penalties, and generates negative reviews that increase CAC for all future campaigns. Variant B's 1.8% is within a healthy range and creates no systemic risk.
 
-**Cancel Rate (Day 30): 41% vs 68%  
-**This is the starkest difference in the entire dataset. In Variant A, 68% of paying users cancel within 30 days — meaning nearly 7 out of 10 users who paid once will not generate any further revenue. In Variant B, 59% of paying users remain active past Day 30, creating a compounding revenue base as campaigns scale.
+**Cancel Rate (Day 30): 41% vs 68%**  
+This is the starkest difference in the entire dataset. In Variant A, 68% of paying users cancel within 30 days — meaning nearly 7 out of 10 users who paid once will not generate any further revenue. In Variant B, 59% of paying users remain active past Day 30, creating a compounding revenue base as campaigns scale.
 
 **Revenue per 1,000 paywall visitors:**
 
@@ -292,14 +292,14 @@ CAC is identical for both variants — traffic was split 50/50 from the same bud
 
 The data reveals that the two variants are attracting fundamentally different types of users.
 
-**Variant A attracts impulsive starters.  
-**The $9.99/week price point feels low-commitment — the barrier to starting a trial is minimal. Users opt in easily (41% CR Paywall→Trial) because the perceived risk is small. However, when the first real charge arrives, many realize they are effectively paying ~$40/month, which they never consciously agreed to. This disconnect drives the 68% cancel rate, 3.2% refund rate, and explains why Day 30 revenue ($26.5) front-loads most of the 6-month LTV ($48) — the majority of value is extracted in the first 2–3 weekly billing cycles before churn.
+**Variant A attracts impulsive starters.**  
+The $9.99/week price point feels low-commitment — the barrier to starting a trial is minimal. Users opt in easily (41% CR Paywall→Trial) because the perceived risk is small. However, when the first real charge arrives, many realize they are effectively paying ~$40/month, which they never consciously agreed to. This disconnect drives the 68% cancel rate, 3.2% refund rate, and explains why Day 30 revenue ($26.5) front-loads most of the 6-month LTV ($48) — the majority of value is extracted in the first 2–3 weekly billing cycles before churn.
 
-**Variant B attracts committed users.  
-**The $19.99/month framing sets a clear and honest expectation upfront. The higher perceived price filters out users who are not genuinely interested — only 28% start the trial. But those who do are already pre-sold on the value: 44% convert to paid, only 41% cancel by Day 30, and the refund rate stays at 1.8%. These users understand what they are paying for and are more likely to remain active past the first billing cycle, which is why Variant B's revenue curve is more gradual but more stable than Variant A's.
+**Variant B attracts committed users.**  
+The $19.99/month framing sets a clear and honest expectation upfront. The higher perceived price filters out users who are not genuinely interested — only 28% start the trial. But those who do are already pre-sold on the value: 44% convert to paid, only 41% cancel by Day 30, and the refund rate stays at 1.8%. These users understand what they are paying for and are more likely to remain active past the first billing cycle, which is why Variant B's revenue curve is more gradual but more stable than Variant A's.
 
-**One counterintuitive signal worth addressing:  
-**Variant A generates higher Avg Revenue per Paid User at Day 30 ($26.5 vs $19.6). This happens because weekly billing front-loads revenue — users are charged immediately and repeatedly in the first weeks. However, this advantage disappears by month 6: LTV converges to $48 vs $45, a difference of only 6.7%. The reason is the 68% cancel rate — most Variant A users churn after 2–3 weekly charges, meaning the early revenue spike does not compound. Variant B generates less in month 1 but retains users longer, producing a more stable and predictable revenue curve that is better suited for scaling.
+**One counterintuitive signal worth addressing:**  
+Variant A generates higher Avg Revenue per Paid User at Day 30 ($26.5 vs $19.6). This happens because weekly billing front-loads revenue — users are charged immediately and repeatedly in the first weeks. However, this advantage disappears by month 6: LTV converges to $48 vs $45, a difference of only 6.7%. The reason is the 68% cancel rate — most Variant A users churn after 2–3 weekly charges, meaning the early revenue spike does not compound. Variant B generates less in month 1 but retains users longer, producing a more stable and predictable revenue curve that is better suited for scaling.
 
 #### **3\. Two Hypotheses for the Next Test**
 
