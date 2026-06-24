@@ -12,7 +12,8 @@ After analyzing Reddit, Instagram, and YouTube, we identified three of the most 
 - **I have no one to practice with**
 - **Not expressing myself the same way as in my native language**
 - **Language apps are useless**
-![Imahe ](comments.png)
+
+![Image problems](comments.png)
 
 **Core Insight**
 
