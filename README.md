@@ -361,7 +361,7 @@ Based on US market data (Task 2.1) combined with Variant B metrics (Task 3.1)
 | Contribution Margin / User | $15.93 | $45.00 − $29.07 |
 | Break-even LTV Needed | $29.07 | LTV must equal CAC |
 
-## **3\.**❓Does Unit Economics Work?
+## **❓3\.Does Unit Economics Work?**
 
 **💡Yes — at current metrics, unit economics is positive.**
 
@@ -374,7 +374,7 @@ This is a direct result of combining two strengths:
 
 Neither input alone is sufficient. US market data with Variant A's CR Trial→Pay (34%) would yield only 531 paying users, CAC of $37.66, and a contribution margin of **+$7.34** — still positive, but significantly weaker. Variant B is what makes economics work comfortably.
 
-## 4\. 📌Conclusion
+## 📌4\. Conclusion
 
 **Recommended action: Improve CR Trial→Pay from 44% to 55% through in-trial engagement optimization.**
 
